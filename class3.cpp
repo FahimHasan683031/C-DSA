@@ -7,6 +7,7 @@ int main(){
         for(int j = 1; j<=m; j++){
             cout <<  "*";
         }
+        cout << "end the loop";
         cout << endl;
     }
 }
